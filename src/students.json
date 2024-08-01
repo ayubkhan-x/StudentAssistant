@@ -1,0 +1,12 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "userId": 103840078,
+      "name": "Test",
+      "surname": "Ayub",
+      "group": "Beginner 15:00"
+    }
+  ],
+  "nextId": 2
+}
